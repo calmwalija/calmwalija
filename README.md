@@ -14,11 +14,11 @@ I´m Comfort Mwalija, a Software engineer
 
 ## ⚡ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=calmwalija&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calmwalija&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api?username=calmwalija&show_icons=true&count_private=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calmwalija&layout=compact&count_private=true&theme=dracula" />
 
 
  ## 🔥 GitHub Repos
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calmwalija&repo=Hymn)](https://github.com/calmwalija/hymn)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calmwalija&repo=Hymn&theme=dracula)](https://github.com/calmwalija/hymn)
 
