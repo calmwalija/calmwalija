@@ -6,9 +6,7 @@ I´m Comfort Mwalija, a Software engineer
 
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
 
